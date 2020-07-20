@@ -35,3 +35,7 @@ Happy nappers is a simple web app that allows you to toggle between awake and as
 
 # Acknowledgments
 * Simple MERN passport made by [b-bly](https://github.com/b-bly/simple-mern-passport)
+
+![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
+![GitHub release](https://img.shields.io/github/v/release/markohanesian/Burger-Logger)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
